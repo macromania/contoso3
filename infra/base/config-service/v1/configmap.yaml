@@ -6,7 +6,7 @@ data:
   ConfigServiceOptions.yaml: |-
     use_proxy_mode: false
     proxy_host: 'http://localhost:5000'
-    test_mode: true
+    test_mode: End2EndTests
     clusters_in_scope:
     - 'portland'
     git_options:
