@@ -1,0 +1,4 @@
+resources:
+- hello-nginx-deployment.yaml
+- hello-nginx-svc.yaml
+- config-index-configmap.yaml
