@@ -1,6 +1,6 @@
 resources:
 - ./../../../../apps/hello-nginx/v1
-- namespace.yaml
+- ./../../../../clusters/portland/hello-nginx/namespace.yaml
 
 namespace: hello-nginx-app
 

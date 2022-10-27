@@ -1,3 +1,8 @@
 resources:
+- ./coffee-line-charlie
+- ./coffee-line-dorothy
+- ./finnish-coffee/kustomization.yaml
+- ./test4
+- ./test4
 - ./hello-nginx
 
