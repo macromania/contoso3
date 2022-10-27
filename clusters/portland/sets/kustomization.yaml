@@ -4,5 +4,5 @@ resources:
 - ./finnish-coffee/kustomization.yaml
 - ./test4
 - ./test4
-- ./hello-nginx
+- ./hello-nginx/kustomization.yaml
 
